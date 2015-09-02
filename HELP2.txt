@@ -1,0 +1,28 @@
+>>
+    *** Movements:
+
+     Simple move:A simple move involves sliding a piece one 
+    space diagonally forwards(also diagonally backwards in the 
+    case of kings) to an adjacent unoccupied dark square. 
+     
+  
+     On jump:-                                 
+    |---|
+  1 |___|  (EMPTY SPACE)                        
+        |---| 
+      2 |___| (YOUR OPPONENT)
+            |---|
+           3|___| (YOUR PON)
+
+     The player 1 must click 3 to select the pon which he want to move and 
+     then click 1 to move over the opponent's pon, thereby removing his pon.
+      
+
+     Once the player reaches the other end of the board, 
+     he becomes the king. The king is denoted with the respective pon clour
+     with a yellow circle in the middle,and then gaining the ability 
+     to move both forwards and backwards.
+     
+How the game ends: 	
+  A player wins by capturing all of the opposing player's pieces,
+  or by leaving the opposing player with no legal moves. 

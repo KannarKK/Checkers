@@ -1,0 +1,20 @@
+
+  ..page 2
+
+
+  English draughts is played by two people, on opposite sides of a 
+  playing board, alternating moves with different colored pieces. 
+  The board alternates between red and black squares. Pieces move 
+  diagonally and pieces of the opponent are captured by jumping 
+  over them.
+
+   Pieces:-
+ There are two classes of pieces: "men" and "kings". Kings are 
+differentiated as consisting of a yellow circle in middle.
+
+    Start:- 
+ Each player starts with 12 pieces on the dark spaces of the three
+ rows closest to their own side. The row closest to each player is 
+ called the "crownhead" or "kings row".
+
+
